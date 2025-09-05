@@ -55,6 +55,7 @@ YOLO11n Video Processor는 Ultralytics YOLO11n 모델을 활용하여 웹캠 또
 ```bash
 pip install opencv-python numpy ultralytics
 
+---
 
 ## 실행
 ```bash
