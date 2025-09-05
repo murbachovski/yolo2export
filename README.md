@@ -6,3 +6,7 @@ def hello():
     print("Hello Markdown")
 javascript
 Copy code
+
+```
+Copy code
+```
