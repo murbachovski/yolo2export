@@ -1,6 +1,6 @@
-# YOLO11n Video Processor
+# YOLO2EXPORT
 
-YOLO11n Video Processor는 Ultralytics YOLO11n 모델을 활용하여 웹캠 또는 비디오 파일의 객체 탐지를 실시간으로 수행하고, PyTorch, OpenVINO, CoreML 등 다양한 백엔드를 지원하며, FPS 표시 및 벤치마크 기능을 제공하는 Python 기반 도구입니다.
+YOLO2EXPORT는 Ultralytics YOLO11n 모델을 활용하여 웹캠 또는 비디오 파일의 객체 탐지를 실시간으로 수행하고, PyTorch, OpenVINO, CoreML 등 다양한 백엔드를 지원하며, FPS 표시 및 벤치마크 기능을 제공하는 Python 기반 도구입니다.
 
 ---
 
